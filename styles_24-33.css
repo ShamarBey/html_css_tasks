@@ -18,3 +18,11 @@ h3 {
 p {
     color: orange;
 }
+
+ul {
+    color: #ff321f;
+  }
+  
+ol {
+    color: rgb(0, 255, 2);
+  }
