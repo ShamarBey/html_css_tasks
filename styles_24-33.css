@@ -26,3 +26,8 @@ ul {
 ol {
     color: rgb(0, 255, 2);
   }
+
+table {
+    width: 400px;
+    height: 300px;
+}
