@@ -13,3 +13,8 @@ table {
 th {
     text-align: left;
 }
+
+td {
+    text-align: center;
+}
+
