@@ -2,4 +2,10 @@ p {
     text-decoration: underline;
     text-decoration: overline;
     text-decoration: line-through;
+    text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+    color: red;
+  }
