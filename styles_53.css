@@ -1,7 +1,31 @@
+/*
+#53-1
 ul li i {
     color: red;
 }
 
-p,i {
-color: red;
+p {
+    color: green;
 }
+
+p,b,i {
+color: red;
+}*/
+
+li,b {
+    color: red;
+}
+
+/* 55-1 */
+ /* .odd {
+    color: red;
+} 
+
+.eve {
+    color: green;
+} */
+
+/* 55-2 */
+/* .eee {
+    color: red;
+} */ 
