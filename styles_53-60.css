@@ -124,6 +124,20 @@ li,b {
 } */
 
 
+/*59-1*/
+
+.header {
+	color: red;
+}
+
+h2.header {
+    font-size: 40px
+}
+
+h3.header {
+    font-size: 30px;
+}
+
 
 
 
