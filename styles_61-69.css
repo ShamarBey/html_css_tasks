@@ -111,9 +111,24 @@
 } */
 
 /* 67-1 */
-
+/* 
 .eee.zzz.ccc
 {
 	color: aqua;
 }
- 
+  */
+
+/* 68-1 */
+/* .bbb.zzz {
+	color: red;
+} */
+
+/* 68-3 */
+/* #elem.bbb {
+	color: red;
+} */
+
+/* 68-5 */
+/* h2#elem.bbb {
+	color: red;
+} */
