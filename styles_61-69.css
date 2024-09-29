@@ -94,6 +94,12 @@
     color: red
 } */
 
+ /* 66-2 */
+
+/* #elem .text {
+	color: aqua;
+} */
+
 /* 66-3 */
 /* #elem p.text {
     color: red;
@@ -103,3 +109,11 @@
 /* #elem li.text {
     color: red;
 } */
+
+/* 67-1 */
+
+.eee.zzz.ccc
+{
+	color: aqua;
+}
+ 
