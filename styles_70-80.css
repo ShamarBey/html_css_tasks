@@ -152,6 +152,103 @@ text-align: center;
 } */
 
 /* 72-7 */
-p.bbb{
+/* p.bbb{
 color: red;
+} */
+
+/* 72-8 */
+/* h2.bbb{
+    color: red;
+} */
+
+/* 72-9 */
+/* #block p.bbb{
+    color: red;
+} */
+
+
+/* 72-10 */
+/* .bbb, .xxx{
+    color: red;
+} */
+
+/* 72-11 */
+/* p.bbb, h2.xxx{
+    color: red;
+} */
+
+/* 72-12 */
+/* #block p.bbb, #block p.xxx{
+    color: red;
+} */
+
+/* 72-13 */
+/* .fff {
+    color: red;
+} */
+
+/* 72-14 */
+/* p.fff{
+    color: red;
+} */
+
+/* 72-17 */
+/* .fff h2.bbb {
+    color: red;
+} */
+
+/* 77-1 */
+/* #elem + li {
+    color: red;
+} */
+
+/* 77-2 */
+/* .elem + li {
+    color: red;
+} */
+
+/* 78 */
+/* #elem ~ li {
+    color: red;
+} */
+
+/* 79 */
+/* main * p {
+    color: red;
+} */
+
+/* 80-1 */
+[title] {
+    color: red;
+}
+
+
+/* 80-2 */
+p[title] {
+    color: green;
+}
+
+/* 80-3 */
+p[title="hello"] {
+    color: blue;
+}
+
+/* 80-4 */
+a[href^="http://"] {
+    color: blue;
+}
+
+/* 80-5 */
+a[href$=".html"] {
+    color: red;
+}
+
+/* 80-6 */
+p[title*="hello"] {
+    color: purple;
+}
+
+/* 80-7 */
+p[class^="top-"] {
+    color: orange;
 }
