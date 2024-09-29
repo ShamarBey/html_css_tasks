@@ -132,3 +132,18 @@
 /* h2#elem.bbb {
 	color: red;
 } */
+
+/* 69-6 */
+.bbb .zzz.xxx {
+	color: red;
+}
+
+/* 69-9 */
+#elem.bbb {
+	color: red;
+}
+
+/* 69-10 */
+#elem .bbb {
+	color: red;
+}
