@@ -1,9 +1,5 @@
-/* 82-1
-a:hover {
-    color:red
-}
-
-a:link {
+/* 82 */
+/* a:link {
     color: blue;
 }
 
@@ -11,31 +7,178 @@ a:visited {
     color: green;
 }
 
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
 a:active {
     color: black;
 } */
 
-/* 84-1
 
-a:link, a:visited, a:active {
+
+
+/* 84 */
+/* a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
     color: blue;
     text-decoration: none;
 }
 
 a:hover {
     color: red;
-    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    text-decoration: none;
 } */
 
-/* 87-1 */
 
-li:first-child {
+
+
+/* 85 */
+/* #test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+} */
+
+
+
+
+
+/* 86-1 */
+/* a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+} */
+
+/* 86-2 */
+/* #block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+} */
+
+/* 86-3 */
+/* .block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+} */
+
+
+
+
+
+
+/* 87-1 */
+/* li:first-child {
+    color: red;
+} */
+
+
+/* 87-3 */
+/* li:first-child {
     color: red;
 }
-
 li:last-child {
     color: green;
+} */
+
+/* 87-4 */
+/* li:nth-child(3) {
+    color: red;
+} */
+
+/* 87-5 */
+/* li:nth-child(even) {
+    color: green;
+}
+li:nth-child(odd) {
+    color: red;
+} */
+
+/* 87-6 */
+/* li:nth-child(3n) {
+    color: red;
+} */
+
+/* 87-7 */
+/* li:nth-last-child(2) {
+    color: red;
+} */
+
+/* 87-8 */
+/* li:only-child {
+    color: red;
+} */
+
+
+/* 87-9 */
+/* li:nth-child(1n) {
+    width: 100px;
+    margin-bottom: 10px;
+    border: 1px solid red;
 }
 
+li:empty {
+    width: 100px;
+    border: 1px solid blue;
+} */
 
 
+
+
+
+/* 88-1 */
+/* p:first-of-type {
+	color: red;
+}
+p:last-of-type {
+    color: green;
+} */
+
+/* 88-2 */
+/* p:nth-of-type(3) {
+    color: gold;
+}
+p:nth-last-of-type(2) {
+    color: red;
+} */
+
+/* 88-3 */
+/* h2:only-of-type {
+	color: red;
+} */
+
+
+
+
+
+
+/* 89-1 */
+/* li:not(.elem) {
+    color: red;
+} */
+
+/* 89-2 */
+/* li:not(:first-child) {
+    color: red;
+} */
+
+/* 89-3 */
+li:not(:first-child, :last-child) {
+    color: red;
+}
