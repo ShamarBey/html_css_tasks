@@ -1,0 +1,24 @@
+/* 90-2 */
+/* 
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+} */
+
+/* 92-1
+li:not(.elem) {
+    color: red;
+
+} */
+
+/* 92-2 */
+/* li:not(:first-child){
+    color: green
+} */
+
+/* 92-3 */
+li:not(:first-child,:last-child) {
+    color: aqua;
+}
