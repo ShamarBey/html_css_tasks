@@ -1,4 +1,16 @@
-/* 108-1 */
- body {
+/* 111-1 */
+ /* body {
     background-image: url('bg.png');
-} 
+}  */
+
+/* 112-1 */
+body {
+    background-image: url('bg.png');
+    background-repeat: repeat-x;
+}
+
+/* 112-2 */
+/* body {
+    background-image: url('bg.png');
+    background-repeat: repeat-y;
+} */
