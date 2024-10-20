@@ -42,7 +42,7 @@
 }  */
 
 /* 127-2 */
-#elem3 {
+/* #elem3 {
     width: 200px;
     border: 1px solid red;
 }
@@ -54,10 +54,10 @@
     margin-left: 25px;
     height: 100px;
     border: 1px solid green;
-}
+} */
 
 /* 127-3 */
-#elem5 {
+/* #elem5 {
     width: 200px;
     border: 1px solid red;
 }
@@ -68,4 +68,17 @@
     margin-left: 70px;
     height: 100px;
     border: 1px solid green;
+} */
+
+/* 129-1 */
+#elem {
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#elem1 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 25px 50px 100px 10px;
+
 }
