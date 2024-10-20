@@ -139,9 +139,33 @@ li:not(.elem) {
 } */
 
 /* 106-1 */
- #elem {
+ /* #elem {
     width: 200px;
     height: 200px;
     border: 1px solid green;
     border-radius: 10px 30px 50px 70px;
-} 
+}  */
+
+/* 107-1 */
+/* #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px;
+} */
+
+/* 108-1 */
+/* #elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px;
+} */
+
+/* 110-1 */
+#elem {
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 50%;
+}
