@@ -42,5 +42,15 @@
 
 /* 123-1 */
 /* ol {
-	list-style-type: lower-alpha;
+	list-style-type: upper-alpha;
 } */
+
+/* 124-1 */
+/* ol {
+	list-style-type: lower-greek;
+} */
+
+/* 125-1 */
+ol {
+	list-style-type: decimal-leading-zero;
+}
