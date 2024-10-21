@@ -118,7 +118,7 @@
 
 /* 167 */
 
-.parent {
+/* .parent {
     display: flex;
     width: 900px;
     margin: 20px auto;
@@ -127,5 +127,17 @@
 .child {
     width: 120px;
     height: 100px;
+    border: 1px solid green;
+} */
+
+/* 168 */
+.parent {
+    display: flex;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child {
+    width: 120px;
+    height: 60px;
     border: 1px solid green;
 }
