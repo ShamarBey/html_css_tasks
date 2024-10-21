@@ -61,7 +61,7 @@
 
 
 /* 164 */
-.parent {
+/* .parent {
 	padding: 10px 0;
 	border: 1px solid red;
     margin-right: 5px;
@@ -73,4 +73,32 @@
     margin-right: 5px;
     margin-left: 5px;
     text-align: center;
+} */
+
+/* 165-1,2 */
+/* .parent {
+    text-align: right;
+	padding: 10px 0;
+    padding-right: 15px;
+	border: 1px solid red;
 }
+.child {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid green;
+} */
+
+/* 165-4,5 */
+/* .parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child {
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    text-align: center;
+} */
+
