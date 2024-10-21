@@ -12,9 +12,34 @@
 } */
 
 /* 155-1 */
-div {
-display: inline-block;
+/* div {
+ display: inline-block;
  width: 100px;
  height: 100px;
  border: 1px solid red;
+} */
+
+#parent {
+    border: 1px solid red;
+}
+
+#elem1 {
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#elem2 {
+    margin: 10px auto;
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#elem3 {
+    margin: 10px auto;
+    width: 300px;
+    height: 100px;
+    border: 1px solid green;
 }
