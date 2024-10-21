@@ -52,9 +52,25 @@
 } */
 
 /* 162 */
-.parent {
+/* .parent {
 	padding: 10px 0;
 	border: 1px solid red;
     text-align: right;
     padding-right: 15px;
+} */
+
+
+/* 164 */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
 }
