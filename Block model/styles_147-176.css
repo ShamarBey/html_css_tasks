@@ -19,7 +19,7 @@
  border: 1px solid red;
 } */
 
-#parent {
+/* #parent {
     border: 1px solid red;
 }
 
@@ -42,4 +42,11 @@
     width: 300px;
     height: 100px;
     border: 1px solid green;
+} */
+
+/* 158 */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
 }
