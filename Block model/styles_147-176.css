@@ -44,9 +44,16 @@
     border: 1px solid green;
 } */
 
-/* 158 */
-.parent {
+/* 161 */
+/* .parent {
 	padding: 10px 0;
 	border: 1px solid red;
     text-align: center;
+} */
+
+/* 162 */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
 }
