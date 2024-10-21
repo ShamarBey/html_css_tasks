@@ -154,7 +154,7 @@
 } */
 
 /* 134-1 */
- #elem {
+ /* #elem {
     width: 300px;
     border: 1px solid red;
     text-align: justify;
@@ -173,4 +173,21 @@
     border: 1px solid red;
     text-align: justify;
     padding: 10px 20px 40px;
+}  */
+
+/* 138-1*/
+#elem1 {
+ width: 100px;
+ height: 100px;
+ background: #f1f1f1;
+ margin-bottom: 20px;
+}
+
+#elem2 {
+ width: 100px;
+ height: 100px;
+ background: #f1f1f1;
+ padding: 25px;
+ border: 10px solid green;
+ box-sizing: border-box; 
 } 
