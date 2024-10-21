@@ -165,4 +165,16 @@
     height: 60px;
     border: 1px solid green;
 } */
- 
+
+/* 171 */
+
+.parent {
+    display: inline-flex;
+    border: 1px solid red;
+}
+.child {
+    margin: 30px;
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
